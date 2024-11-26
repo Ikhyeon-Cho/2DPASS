@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 from torch.utils import data
 from pathlib import Path
-from nuscenes.utils import splits
+# from nuscenes.utils import splits
 
 REGISTERED_PC_DATASET_CLASSES = {}
 
